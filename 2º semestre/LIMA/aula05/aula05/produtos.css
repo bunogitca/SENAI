@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+body {
+    /* viewport widht | viewport height*/
+    width: 100vw;
+    height: 100vh;
+    background-color: cornflowerblue;
+
+    display: flex;
+    flex-direction: row;/* orientacao row ou collumn*/
+    /* align-items | justify-content*/
+    align-items: center;
+    justify-content: space-evenly;
+
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+
+.imagem {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 35px;
+    margin-top: 5px;
+}

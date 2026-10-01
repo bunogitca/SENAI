@@ -1,0 +1,24 @@
+perguntas acess point
+1-os repetidores continuam mandando um sinal ruim, já o ap tem um sinal melhorado
+2-é mais caro, precisa de cabo de rede
+3-liga um cabo de rede no roteador, ligando ele em outro roteador
+
+perguntas modelo O.S.I
+1-camada 3 de rede
+2-sessão,
+3-camada 1
+
+perguntas fire wall
+1-eles vem do inglês, parede-wall, fogo-fire.
+2-software, no sop e do hardware fica na maquina.
+3-sim, pois ele sempre faz a verificação de todos os arquivos sempre.
+
+perguntas switch
+1- fazer maquinas conectadas na mesma rede se comunicarem
+2-ele transmite informação de maneira  especifica
+3-camada 2
+
+perguntas hub
+1-mandar informações para os dispositivos conectados
+2-vem da palavra centro
+3-passivo e ativo
